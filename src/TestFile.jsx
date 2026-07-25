@@ -1,5 +1,5 @@
 export const TestFile = () => {
     return (
-        <div>File changes to commit ...</div>
+        <div>Added the changes s</div>
     )
 }
